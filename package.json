@@ -43,7 +43,7 @@
     "node-glob": "^1.2.0",
     "node-gzip": "^1.1.2",
     "sinon": "^7.2.2",
-    "terser": "^3.17.0",
+    "terser": "^4.8.1",
     "tslib": "^1.9.3",
     "tslint": "^5.12.1",
     "typedoc": "^0.14.2",
